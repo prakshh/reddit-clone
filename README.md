@@ -1,1 +1,1 @@
-# reddit-clone
+# spring-reddit-clone
